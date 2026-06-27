@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning Linux.
 
-- ⭐ View my TryHackme Profile <a href="https://tryhackme.com/p/sokpanha1u" target="Blank" rel="norefferer">[SokPanha1u]</a>
+- ⭐ View my TryHackme Profile <a href="https://tryhackme.com/p/sokpanha1u" target="Blank" rel="norefferer">[HACK!]</a>
 
 - 👨‍💻 All of my projects are available at <a href="" target="_blank" rel="noreferrer">[Here!]</a>
 
