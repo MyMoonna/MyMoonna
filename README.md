@@ -3,7 +3,7 @@
 
 <h4 align="left">About me:</h4>
 
-- 🌱 I'm currently learning CompTIA Security+ SY0-701.
+- 🌱 I'm currently learning in Tryhackme and HacktheBox.
 
 - ⭐ View my TryHackme & HackTheBox Profile <a href="https://tryhackme.com/p/sokpanha1u" target="Blank" rel="norefferer">[THM]</a> <a href="https://profile.hackthebox.com/profile/019d0a31-531b-73b6-ba8d-1db17fd8a82f" target="Blank" rel="norefferer">[HTB]</a>
 
