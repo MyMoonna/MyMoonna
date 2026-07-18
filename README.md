@@ -29,6 +29,7 @@
 <h4 align="left">Tools Proficiency:</h4>
 <p align="left">
   <img alt="Nmap" src="https://nmap.org/images/nmap-logo-256x256.png" width="50" height="50">
+    <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge" width="50" height="50">
 </p>
 
 <h4 align="left">Operating System Proficiency:</h4>
